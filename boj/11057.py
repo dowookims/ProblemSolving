@@ -11,5 +11,5 @@ for i in range(2, N+1):
         dp[i][j] = dp[i-1][j] + dp[i][j-1]
 
 for i in range(0, 10):
-    ans += ans + dp[N][i]
+    ans += dp[N][i]
 print(ans % 10007)

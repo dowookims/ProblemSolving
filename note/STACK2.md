@@ -111,7 +111,7 @@ def partition (a, begin, end):
         if L < R:
             if L ==pivot : pivot = R
             a[L], a[R] = a[R], a[L]
-    a[pivot], a[R] = a[R], a[pivot
+    a[pivot], a[R] = a[R], a[pivot]
 	return R
 ```
 
