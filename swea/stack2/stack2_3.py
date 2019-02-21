@@ -1,6 +1,6 @@
 import sys
 sys.stdin = open("sample_input3.txt", "r")
-
+# 1 가위 2 바위 3 보
 def div_list(case):
     if len(case[0])== 1 or len(case[0])==2:
         return

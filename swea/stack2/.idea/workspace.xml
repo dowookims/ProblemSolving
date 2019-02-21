@@ -2,25 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded671ac-2ab7-4d62-aadd-4c4c23dda533" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/boj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solvingclub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../boj/11057.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/11057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../boj/11726.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/11726.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../note/STACK2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../note/STACK2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/1206_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/1208_dump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/1209_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/1210_ladder1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/1211_ladder2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/array1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/input6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stack2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stack2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stack2_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stack2_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="126">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -91,13 +91,13 @@
         <option value="$PROJECT_DIR$/magnetic.py" />
         <option value="$PROJECT_DIR$/stack2_1.py" />
         <option value="$PROJECT_DIR$/solvingclub.py" />
-        <option value="$PROJECT_DIR$/stack2_3.py" />
         <option value="$PROJECT_DIR$/stack2_4.py" />
+        <option value="$PROJECT_DIR$/stack2_3.py" />
         <option value="$PROJECT_DIR$/stack2_2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -125,7 +125,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../boj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../array" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -144,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stack2_2">
+  <component name="RunManager" selected="Python.stack2_3">
     <configuration name="magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stack2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,8 +253,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.stack2_2" />
         <item itemvalue="Python.stack2_3" />
+        <item itemvalue="Python.stack2_2" />
         <item itemvalue="Python.solvingclub" />
         <item itemvalue="Python.stack2_1" />
         <item itemvalue="Python.magnetic" />
@@ -274,15 +275,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1057" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32502708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,17 +355,17 @@
     <entry file="file://$PROJECT_DIR$/sample_input3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/input2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solvingclub.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -377,15 +378,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stack2_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="126">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stack2_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
