@@ -2,25 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded671ac-2ab7-4d62-aadd-4c4c23dda533" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/1206_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/1208_dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/1209_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/1210_ladder1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/1211_ladder2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/array1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array/input6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stack2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stack2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/1217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/1218.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/1219_find_route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/input9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/1213_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/1215_palindrome1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/1216_palindrome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/4836_coloring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/4861_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/4865_letter_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/sample_input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/sample_input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/sample_input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/solv1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/test_input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/.idea/boj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/boj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/2156.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/2156.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/2751.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/2751.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/1211_ladder2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../array/1211_ladder2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stack2_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="315">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
@@ -355,6 +364,27 @@
     <entry file="file://$PROJECT_DIR$/sample_input3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/stack2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/solvingclub.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -366,27 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack2_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack2_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack2_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
