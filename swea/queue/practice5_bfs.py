@@ -3,7 +3,6 @@ def BFS(G, v):
     queue = [v]
     while queue:
         t = queue.pop(0)
-        
         if not visited[t]:
             print(t+1, end= ' ')
             visited[t] = True          
@@ -18,6 +17,3 @@ for i in range(0,len(a),2):
     case[a[i]-1][a[i+1]-1]= 1
     case[a[i+1]-1][a[i]-1]= 1
 BFS(case,0)
-print()
-for item in case:
-    print(item)

@@ -1,26 +1,61 @@
-import sys
-sys.stdin = open("sample_input2.txt", 'r')
-def dfs(case, s):
+class Stack:
+    def __init__(self):
+        self.stack = [None] * 250
+        self.top = -1
+
+    def pop(self):
+        if self.top == -1:
+            return None
+        result = self.stack[self.top]
+        self.stack[self.top] = 0
+        self.top -= 1
+        return result
+
+    def push(self, item):
+        self.top += 1
+        self.stack[self.top] = item
+        return
+
+    def peek(self):
+        return self.stack[self.top]
+
+    def is_empty(self):
+        return True if self.top == -1 else False
 
 
-for TC in range(1, int(input())+1):
-    r = int(input())
-    s = []
-    e = []
-    visited=[]
-    case = [[] for _ in range(r)]
-    for i in range(r):
-        case[i] = list(map(int,''.join(input())))
-    for i in range(r):
-        for j in range(r):
-            if s and e:
-                break
-            elif case[i][j] == 3:
-                s = [i,j]
-            elif case[i][j] == 2:
-                e = [i,j]
+def find_way(y, x):
+    for i in range(4):
+        if 0 <= y + delta[i][0] <= (N - 1) and 0 <= x + delta[i][1] <= (N - 1):
+            if maze[y + delta[i][0]][x + delta[i][1]] == '3':
+                route.push((y + delta[i][0], x + delta[i][1]))
+                return True
+            if not (int(maze[y + delta[i][0]][x + delta[i][1]]) or visited[y + delta[i][0]][x + delta[i][1]]):
+                route.push((y + delta[i][0], x + delta[i][1]))
+                visited[y + delta[i][0]][x + delta[i][1]] = 1
+                return False
+    route.pop()
+    return False
 
-    for i in case:
-        print(i)
-    print(f"s : {r} // e : {r}")
-    print('############')
+
+delta = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+T = int(input())
+for t in range(1, T+1):
+    N = int(input())
+    maze = [''] * N
+    for i in range(N):
+        maze[i] = input()
+    visited = [[0 for _ in range(N)] for _ in range(N)]
+    route = Stack()
+    for x in range(N):
+        for y in range(N):
+            if maze[y][x] == '2':
+                route.push((y, x))
+
+    while True:
+        if route.is_empty():
+            print(f"#{t} 0")
+            break
+        y, x = route.peek()[0], route.peek()[1]
+        if find_way(y, x):
+            print(f"#{t} 1")
+            break
