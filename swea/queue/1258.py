@@ -38,6 +38,8 @@ for TC in range(1, T+1):
         for j in range(0, i):
             if save[j][0] * save[j][1] > save[j + 1][0] * save[j + 1][1]:
                 save[j][0],save[j][1], save[j + 1][0], save[j+1][1] = save[j + 1][0], save[j + 1][1], save[j][0],save[j][1]
+            elif (save[j][0] * save[j][1] == save[j + 1][0] * save[j + 1][1]) and save[j][0] > save[j+1][0]:
+                save[j][0],save[j][1], save[j + 1][0], save[j+1][1] = save[j + 1][0], save[j + 1][1], save[j][0],save[j][1]
     for i in range(len(save)):
         for j in range(2):
             print(save[i][j], end=" ")
