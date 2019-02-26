@@ -9,8 +9,10 @@ class Node:
 
 class LinkedQueue:
     def __init__(self,n):
+        self.queue = [None]*n
         self.front = None
         self.rear = None
+        self.cnt = -1
     
     def isEmpty(self):
         return self.front == None
@@ -22,6 +24,8 @@ class LinkedQueue:
         else :
             self.rear.next = newNode
         self.rear = newNode
+        self.cnt +=1
+        self.queue[self.cnt] = newNode.item
     
     def deQueue(self):
         if self.isEmpty():
@@ -31,12 +35,16 @@ class LinkedQueue:
         self.front = self.front.next
         if self.isEmpty():
             self.rear = None
+
+        self.queue[self.cnt] = None
+        self.cnt -= 1
         return item
 
 a = LinkedQueue(10)
 a.enQueue(5)
 a.enQueue(4)
 a.enQueue(3)
+print(a.cnt)
 print(a.deQueue())
 print(a.deQueue())
 print(a.deQueue())

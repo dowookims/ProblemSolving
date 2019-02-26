@@ -48,7 +48,7 @@ Qpeek() : 큐의 앞쪽에서 원소를 삭제 없이 반환
   	else :
   	    # rear 값을 하나 증가시켜 새로운 원소 삽입할 자리 마련
            # 그 인덱스에 해당하는 배열원소에 item 저장
-  		rear = rear + 1;
+  		rear += 1;
   		Q[rear] = item
   ```
 
@@ -56,7 +56,8 @@ Qpeek() : 큐의 앞쪽에서 원소를 삭제 없이 반환
 
 * ```python
   def deQueue():
-  	if(isEmpty()) then Queue_Empty();
+  	if isEmpty():
+          print("Queue is empty");
       else {
           front += 1
           return Q[front];
@@ -301,4 +302,26 @@ DFS는 Stack, BFS는 Queue를 구현해서 함
 ![q9](/img/q9.png)
 
 ![q10](/img/q10.png)
+
+```python
+def BFS(G, v):
+    visited = [0 for _ in range(7)]
+    queue = [v]
+    while queue:
+        t = queue.pop(0)
+        if not visited[t]:
+            print(t+1, end= ' ')
+            visited[t] = True          
+        for i in range(len(G[t])):
+            if G[t][i] and not visited[i]:
+                queue.append(i)
+
+a = [1,2,1,3,2,4,2,5,4,6,5,6,6,7,3,7]
+
+case =[[0 for _ in range(7)] for _ in range(7)]
+for i in range(0,len(a),2):
+    case[a[i]-1][a[i+1]-1]= 1
+    case[a[i+1]-1][a[i]-1]= 1
+BFS(case,0)
+```
 

@@ -2,28 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f73d95-929e-4493-80f7-587a0ab793ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/1217.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/1218.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/1219_find_route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/input7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/input8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/input9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/1213_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/1215_palindrome1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/1216_palindrome2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/4836_coloring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/4861_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/4865_letter_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/sample_input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/sample_input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/sample_input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/solv1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/test_input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/1211_ladder2.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/1211_ladder2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5097.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5099.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5102.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/5102_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/contact.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/02_25_Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/queue/02_25_Queue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/1258.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/1258.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/practice3_linked_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/practice3_linked_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/practice5_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/practice5_bfs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stack2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack2/stack2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2/stack2_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,77 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str/1213_string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str/1215_palindrome1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str/input1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str/1216_palindrome2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack/1219_find_route.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/1217.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/input9.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/1218.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str/solv1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -119,10 +46,12 @@
         <option value="$PROJECT_DIR$/stack/1218.py" />
         <option value="$PROJECT_DIR$/str/1216_palindrome2.py" />
         <option value="$PROJECT_DIR$/stack/1219_find_route.py" />
+        <option value="$PROJECT_DIR$/queue/5102.py" />
+        <option value="$PROJECT_DIR$/queue/5102_1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -142,6 +71,11 @@
             <path>
               <item name="swea" type="b2602c69:ProjectViewProjectNode" />
               <item name="swea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,28 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1219_find_route">
-    <configuration name="1215_palindrome1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/1215_palindrome1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.5102_1">
     <configuration name="1216_palindrome2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,27 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/1216_palindrome2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1217" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\ProblemSolving\swea\stack\1217.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,13 +169,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/5102.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5102_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/5102_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5102_1" />
+        <item itemvalue="Python.5102" />
         <item itemvalue="Python.1219_find_route" />
         <item itemvalue="Python.1216_palindrome2" />
         <item itemvalue="Python.1218" />
-        <item itemvalue="Python.1217" />
-        <item itemvalue="Python.1215_palindrome1" />
       </list>
     </recent_temporary>
   </component>
@@ -301,23 +235,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32832617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -357,25 +290,47 @@
     <entry file="file://$PROJECT_DIR$/str/test_input1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/stack/input8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/input7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/str/1213_string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/str/solv1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/str/1215_palindrome1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="22" selection-end-column="25" />
+          <caret line="3" selection-start-line="3" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/str/input1.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/1216_palindrome2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2/stack2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/1219_find_route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stack/1217.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -387,9 +342,6 @@
     <entry file="file://$PROJECT_DIR$/stack/input9.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/input8.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack/1218.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -397,20 +349,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/str/1216_palindrome2.py">
+    <entry file="file://$PROJECT_DIR$/str/solv1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/5102.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="-252">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/input7.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/1219_find_route.py">
+    <entry file="file://$PROJECT_DIR$/queue/5102_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
