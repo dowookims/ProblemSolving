@@ -11,24 +11,24 @@ for TC in range(1, int(input()) + 1):
         fire.append([case[i],i+1])
     while len(fire)>1:
         p = fire.pop(0)
-        if p[0] == 0 and c < M:
-            fire.append([case[c], c+1])
-            c += 1
-        elif c<M:
-            p[0] == p[0]//2
-            fire.append([p[0], p[1]])
-        elif c == M:
+        if c<M:
+            p[0] = p[0]//2
             if p[0] == 0:
+                fire.append([case[c], c+1])
+                c += 1
                 continue
-            elif len(fire) == 0:
-                res =p[1]
-                break
+            fire.append([p[0], p[1]])
+        else:
+            if p[0] == 0:
+                if len(fire)==1:
+                    break
+                else:
+                    continue
             else:
                 p[0] = p[0] // 2
                 fire.append([p[0], p[1]])
 
-    print(fire[0][1])
-    print("#")
+    print(f"#{TC} {fire[0][1]}")
 
 
 
