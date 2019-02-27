@@ -2,25 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f73d95-929e-4493-80f7-587a0ab793ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/queue/5097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5097.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5099.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5102.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5102_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/contact.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boj/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/priority_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1228.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1228.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1229.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1229.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1230.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/1230.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5102.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5108.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5110.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5120.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/5122.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/number_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1/solv/number_array.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2/1222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2/1222.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2/1223.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2/1223.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/02_25_Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/queue/02_25_Queue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/1258.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/1258.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/practice3_linked_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/practice3_linked_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/practice5_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/practice5_bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stack2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack2/stack2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2/stack2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/5105.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/5105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/contact.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +37,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/5110.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/1228.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="23" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/1229.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/1230.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="38" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack2/1222.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stack2/1223.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack2/1222.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/1230.py.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list1/solv/1228.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,12 +126,27 @@
         <option value="$PROJECT_DIR$/stack/1219_find_route.py" />
         <option value="$PROJECT_DIR$/queue/5102.py" />
         <option value="$PROJECT_DIR$/queue/5102_1.py" />
+        <option value="$PROJECT_DIR$/queue/5105.py" />
+        <option value="$PROJECT_DIR$/queue/contact.py" />
+        <option value="$PROJECT_DIR$/list1/solv/5108.py" />
+        <option value="$PROJECT_DIR$/list1/solv/5102.py" />
+        <option value="$PROJECT_DIR$/list1/merge_sort.py" />
+        <option value="$PROJECT_DIR$/list1/solv/number_array.py" />
+        <option value="$PROJECT_DIR$/list1/priority_queue.py" />
+        <option value="$PROJECT_DIR$/list1/solv/5120.py" />
+        <option value="$PROJECT_DIR$/list1/solv/5122.py" />
+        <option value="$PROJECT_DIR$/list1/solv/5110.py" />
+        <option value="$PROJECT_DIR$/list1/solv/1228.py" />
+        <option value="$PROJECT_DIR$/list1/solv/1229.py" />
+        <option value="$PROJECT_DIR$/list1/solv/1230.py" />
+        <option value="$PROJECT_DIR$/stack2/1222.py" />
+        <option value="$PROJECT_DIR$/stack2/1223.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="956" />
+    <option name="width" value="971" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -75,7 +168,7 @@
             <path>
               <item name="swea" type="b2602c69:ProjectViewProjectNode" />
               <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="stack2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,6 +182,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\ProblemSolving\swea\stack2" />
+      <recent name="C:\Users\student\ProblemSolving\swea\list1\solv" />
       <recent name="C:\Users\student\ProblemSolving\swea\stack" />
       <recent name="C:\Users\student\ProblemSolving\swea\str" />
     </key>
@@ -105,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5102_1">
-    <configuration name="1216_palindrome2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1222">
+    <configuration name="1222" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/1216_palindrome2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2/1222.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1218" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1228" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list1/solv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/1218.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list1/solv/1228.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1219_find_route" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1229" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list1/solv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/1219_find_route.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list1/solv/1229.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1230" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list1/solv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/5102.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list1/solv/1230.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5102_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5110" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list1/solv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/5102_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list1/solv/5110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5102_1" />
-        <item itemvalue="Python.5102" />
-        <item itemvalue="Python.1219_find_route" />
-        <item itemvalue="Python.1216_palindrome2" />
-        <item itemvalue="Python.1218" />
+        <item itemvalue="Python.1222" />
+        <item itemvalue="Python.1230" />
+        <item itemvalue="Python.1229" />
+        <item itemvalue="Python.1228" />
+        <item itemvalue="Python.5110" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +330,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="956" y="0" width="971" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25080386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32832617" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40195015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,10 +455,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/queue/5105.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/queue/5102_1.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5108.py.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5108.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5110.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5102.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5120.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5122.py.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/priority_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/number_array.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/number_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5120.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5102.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/5110.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1228.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1229.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1228.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1230.py.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1229.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1/solv/1230.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2/1222.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2/1222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2/1223.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2/1223.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
