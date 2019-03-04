@@ -19,5 +19,5 @@ for TC in range(1, int(input())+1):
         res = -1
     else:
         res = case[L]
-    print(f"#{TC} {res}")
+    print("#{} {}".format(TC,res))
 
