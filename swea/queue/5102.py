@@ -33,5 +33,5 @@ for TC in range(1, int(input()) + 1):
     print(s,e)
     for item in graph:
         print(item)
-    print(f"#{TC} {bfs(s-1,e-1)}")
+    print("#{} {}".format(TC, bfs(s-1,e-1)))
 

@@ -68,4 +68,4 @@ for tc in range(1,int(input())+1):
         if temp!=0:
             result=temp
             break
-    print(f"#{tc} {result}")
+    print("#{} {}".format(tc, result))

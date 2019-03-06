@@ -1,14 +1,18 @@
 import sys
 sys.stdin = open("5178.txt", "r")
 
-def postOrder(T):
-    if T == 0:
+def post_traverse(T):
+    global N
+    if T*2 > N:
         return
+    else:
+        post_traverse(T*2)
+        if T*2+1 <= N:
+            post_traverse(T*2+1)
+            tree[T] = tree[T*2] + tree[T*2+1]
+        else:
+            tree[T] = tree[T*2]
 
-    if tree[T]:
-        i = T//2
-        tree[i] = tree[T] + tree[T+1]
-        postOrder(i)
 
 for TC in range(1,int(input())+1):
     N, M, L = map(int, input().split())
@@ -16,16 +20,5 @@ for TC in range(1,int(input())+1):
     for _ in range(M):
         idx, v = map(int, input().split())
         tree[idx] = v
-    k = 0
-    while N > 2**k-1:
-        k += 1
-
-    if 2**k > N:
-        k -= 1
-
-    postOrder(2**k)
-    for i in range(len(tree)):
-        if not tree[i]:
-            print(i, end=" ")
-    print()
+    post_traverse(1)
     print("#{} {}".format(TC, tree[L]))
