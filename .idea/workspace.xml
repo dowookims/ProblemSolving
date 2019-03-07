@@ -2,28 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b929a8c-02e3-4ce6-a95d-eefb55bc1e87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swea/im/danjo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/danjo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/dasol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/dasol_diamont.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/ns.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/im/pascal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1231.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1232.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1232.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1233.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/1233.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/5177.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/5177.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/sc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/tree/problem/sc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj/10163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj/2529.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj/2529.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj/2606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj/2606.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1211.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1211.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1946.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1946.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1959.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1979.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/1979.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/2001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/2001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/4615.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/4615.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/5356.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/5356.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/6109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/im/6109.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swea/queue/5102.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/queue/5102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swea/queue/5105.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/queue/5105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swea/tree/problem/5176.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/tree/problem/5176.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swea/tree/problem/5178.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/tree/problem/5178.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,48 +35,126 @@
     <session id="741121526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="29" />
-          <entry key="txt" value="4" />
+          <entry key="py" value="42" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="29" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12929" />
+          <entry key="dummy" value="5" />
+          <entry key="py" value="23340" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12929" />
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="Python" value="23340" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swea/queue/5105.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swea/im/1959.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+            <state relative-caret-position="475">
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <marker date="1551925908403" expanded="true" signature="76:259" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swea/im/4615.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swea/im/6109.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj/10163.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="19" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj/2606.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <marker date="1551933858526" expanded="true" signature="69:228" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj/2529.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1551943359820" expanded="true" signature="55:57" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj/2529.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj/2606.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -84,6 +162,7 @@
       <find>87</find>
       <find>87 2</find>
       <find>init</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,6 +197,19 @@
         <option value="$PROJECT_DIR$/swea/tree/problem/sc.py" />
         <option value="$PROJECT_DIR$/swea/tree/problem/1232.py" />
         <option value="$PROJECT_DIR$/swea/tree/problem/1233.py" />
+        <option value="$PROJECT_DIR$/swea/im/whereword.py" />
+        <option value="$PROJECT_DIR$/swea/im/1211.py" />
+        <option value="$PROJECT_DIR$/swea/im/5356.py" />
+        <option value="$PROJECT_DIR$/swea/im/2001.py" />
+        <option value="$PROJECT_DIR$/swea/im/1979.py" />
+        <option value="$PROJECT_DIR$/swea/im/1946.py" />
+        <option value="$PROJECT_DIR$/swea/im/1959.py" />
+        <option value="$PROJECT_DIR$/boj/10163.py" />
+        <option value="$PROJECT_DIR$/boj/2606.txt" />
+        <option value="$PROJECT_DIR$/boj/2606.py" />
+        <option value="$PROJECT_DIR$/boj/2529.py" />
+        <option value="$PROJECT_DIR$/swea/im/4615.py" />
+        <option value="$PROJECT_DIR$/swea/im/6109.py" />
       </list>
     </option>
   </component>
@@ -134,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,18 +242,13 @@
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
               <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,8 +257,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\student\ProblemSolving\swea\tree\problem" />
       <recent name="C:\Users\student\ProblemSolving\swea\im" />
+      <recent name="C:\Users\student\ProblemSolving\swea\tree\problem" />
       <recent name="C:\Users\student\swea\stack" />
     </key>
   </component>
@@ -188,8 +274,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1233">
-    <configuration name="1232" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6109">
+    <configuration name="10163" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/tree/problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/tree/problem/1232.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj/10163.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1233" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2529" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +304,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/tree/problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/tree/problem/1233.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj/2529.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +317,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="danjo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2606" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj/2606.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4615" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,7 +350,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/im/danjo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/im/4615.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dasol_diamont" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6109" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,28 +371,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/im/dasol_diamont.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/tree/problem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/tree/problem/sc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/im/6109.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,19 +381,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dasol_diamont" />
-      <item itemvalue="Python.danjo" />
-      <item itemvalue="Python.sc" />
-      <item itemvalue="Python.1233" />
-      <item itemvalue="Python.1232" />
+      <item itemvalue="Python.4615" />
+      <item itemvalue="Python.10163" />
+      <item itemvalue="Python.2606" />
+      <item itemvalue="Python.2529" />
+      <item itemvalue="Python.6109" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1233" />
-        <item itemvalue="Python.1232" />
-        <item itemvalue="Python.sc" />
-        <item itemvalue="Python.dasol_diamont" />
-        <item itemvalue="Python.danjo" />
+        <item itemvalue="Python.6109" />
+        <item itemvalue="Python.4615" />
+        <item itemvalue="Python.2529" />
+        <item itemvalue="Python.2606" />
+        <item itemvalue="Python.10163" />
       </list>
     </recent_temporary>
   </component>
@@ -327,13 +413,13 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1057" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3308026" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -432,9 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1551678269519" expanded="true" signature="69:235" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -466,9 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding>
-            <marker date="1551672618012" expanded="true" signature="25:674" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,9 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <marker date="1551834722647" expanded="true" signature="46:47" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <marker date="1551838513148" expanded="true" signature="101:213" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,9 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <marker date="1551860462855" expanded="true" signature="222:902" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="45" selection-end-column="44" />
-          <folding>
-            <marker date="1551858956140" expanded="true" signature="218:650" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,10 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <marker date="1551856659654" expanded="true" signature="1022:1024" ph="..." />
-            <marker date="1551856659654" expanded="true" signature="1467:1468" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,16 +673,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <marker date="1551849084299" expanded="true" signature="315:317" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/1211.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/2001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/5356.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swea/queue/5105.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+        <state relative-caret-position="835">
+          <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/1979.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/1946.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj/10163.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj/2606.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj/2529.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1551943359820" expanded="true" signature="55:57" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj/2606.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <marker date="1551933858526" expanded="true" signature="69:228" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/1959.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <marker date="1551925908403" expanded="true" signature="76:259" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj/2529.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/4615.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/im/6109.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
         </state>
       </provider>
     </entry>
