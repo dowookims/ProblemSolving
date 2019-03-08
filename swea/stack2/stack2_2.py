@@ -53,9 +53,9 @@ for t in range(1, T+1):
 
     while True:
         if route.is_empty():
-            print(f"#{t} 0")
+            print("#{} 0".format(t))
             break
         y, x = route.peek()[0], route.peek()[1]
         if find_way(y, x):
-            print(f"#{t} 1")
+            print("#{} 1".format(t))
             break
