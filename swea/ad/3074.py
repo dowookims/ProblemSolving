@@ -9,24 +9,26 @@ sys.stdin = open("3074.txt", "r")
 for TC in range(1, int(input())+1):
     N, M = map(int, input().split())
 
-    time = [0] * N
+    t = [0] * N
+    mt = 987654321
     for i in range(N):
-        time[i] = int(input())
+        t[i] = int(input())
+        if mt > t[i]:
+            mt = t[i]
 
-    # binary search
-    r = min(time) * M
-    l = 1
+    r = mt * M
+    s = 1
 
-    while l < r:
-        m = (l + r) // 2
+    while s < r:
+        m = (s + r) // 2
 
-        Sum = 0
+        S = 0
         for i in range(N):
-            Sum += m // time[i]
+            S += m // t[i]
 
-        if Sum < M:
-            l = m + 1
+        if S < M:
+            s = m + 1
         else:
             r = m
 
-    print(f"#{TC} {l}")
+    print("#{} {}".format(TC, s))

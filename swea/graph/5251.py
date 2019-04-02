@@ -8,12 +8,11 @@ def dijkstra(K, V):
     s = [False] * V
     d = [INF] * V
     d[K] = 0
-    idx = 0
-    while idx != V:
+    while True:
         m = INF
         N = 0
 
-        for j in range(idx, V):
+        for j in range(V):
             if not s[j] and m > d[j]:
                 m = d[j]
                 N = j
@@ -21,13 +20,12 @@ def dijkstra(K, V):
             break
         s[N] = True
 
-        for j in range(idx, V):
+        for j in range(V):
             if s[j]:
                 continue
             via = d[N] + graph[N][j]
             if d[j] > via:
                 d[j] = via
-        idx += 1
     return d
 
 
