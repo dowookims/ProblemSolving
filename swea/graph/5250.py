@@ -35,14 +35,12 @@ def dijkstra(sr, se, V):
 
 
 for TC in range(1, int(input())+1):
+    INF = sys.maxsize
     dx = [0, -1, 0, 1]
     dy = [1, 0, -1, 0]
     N = int(input())
-    dist = [[1000 for _ in range(N)] for _ in range(N)]
-    visited = [[0 for _ in range(N)] for _ in range(N)]
-    case = [0]*N
+    D = [[INF for _ in range(N)] for _ in range(N)]
     res = 987654321
-    for i in range(N):
-        case[i] = list(map(int, input().split()))
+    case = [list(map(int, input().split())) for _ in range(N)]
     dijkstra(0, 0,  N)
     print("#{} {}".format(TC, res))
