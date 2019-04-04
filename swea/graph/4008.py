@@ -13,7 +13,7 @@ def cal(v, n=0):
             minV = v
         if v > maxV:
             maxV = v
-        if v < minV:
+        elif v < minV:
             minV = v
         return
 
